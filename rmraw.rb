@@ -1,5 +1,5 @@
 #! /usr/bin/env ruby
-# remove CR2 raw files if corresponding JPG is not present
+# remove CR2 raw files in the current directory if corresponding JPG is not present
 
 jpg_files = []
 raw_files = []
